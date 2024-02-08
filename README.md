@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--assignment-w3template--prakhar-cts.hlx.page/
+- Live: https://main--assignment-w3template--prakhar-cts.hlx.live/
 
 ## Installation
 
